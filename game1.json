@@ -1,0 +1,33 @@
+{
+    "levels": [
+        {
+            "terrain": "Ice",
+            "rows": 10,
+            "columns": 10,
+            "player": [1, 1],
+            "pokemons": [{
+                "name": "Pikachu",
+                "position": [2, 2]
+            }, {
+                "name": "Bulbasaur",
+                "position": [2, 7]
+            }, {
+                "name": "Charmander",
+                "position": [7, 7]
+            }, {
+                "name": "Squirtle",
+                "position": [7, 2]
+            }
+            ],
+           "walls": [
+                [0.5, 1],
+                [0.5, 2],
+                [1.5, 2],
+                [2, 1.5],
+                [3, 1.5],
+                [6.5, 7],
+                [7, 6.5]
+            ]
+        }
+    ]
+}

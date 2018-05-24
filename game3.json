@@ -1,0 +1,224 @@
+{
+  "levels": [
+    {
+      "terrain": "Mountain",
+      "rows": 10,
+      "player": [1, 1],
+      "pokemons": [
+        {
+          "position": [7, 8],
+          "name": "Mewtwo"
+        },
+        {
+          "position": [5, 4],
+          "name": "Dragonair"
+        },
+        {
+          "position": [4, 7],
+          "name": "Nidorino"
+        },
+        {
+          "position": [7, 0],
+          "name": "Kabutops"
+        },
+        {
+          "position": [9, 1],
+          "name": "Haunter"
+        },
+        {
+          "position": [3, 2],
+          "name": "Mewtwo"
+        },
+        {
+          "position": [6, 1],
+          "name": "Vileplume"
+        },
+        {
+          "position": [3, 1],
+          "name": "Oddish"
+        },
+        {
+          "position": [7, 4],
+          "name": "Aerodactyl"
+        },
+        {
+          "position": [1, 8],
+          "name": "Pidgey"
+        },
+        {
+          "position": [6, 2],
+          "name": "Seel"
+        },
+        {
+          "position": [1, 6],
+          "name": "Mew"
+        },
+        {
+          "position": [3, 6],
+          "name": "Caterpie"
+        },
+        {
+          "position": [9, 6],
+          "name": "Omastar"
+        },
+        {
+          "position": [0, 9],
+          "name": "Starmie"
+        },
+        {
+          "position": [3, 4],
+          "name": "Magneton"
+        }
+      ],
+      "walls": [
+        [0.5, 1],
+        [0.5, 2],
+        [0.5, 3],
+        [0.5, 4],
+        [0.5, 5],
+        [0.5, 6],
+        [0.5, 7],
+        [0.5, 8],
+        [1, 0.5],
+        [1, 3.5],
+        [1.5, 5],
+        [2, 0.5],
+        [2.5, 1],
+        [2, 2.5],
+        [2, 5.5],
+        [2.5, 6],
+        [3, 0.5],
+        [3.5, 3],
+        [3, 5.5],
+        [4, 0.5],
+        [4.5, 4],
+        [5, 0.5],
+        [5, 1.5],
+        [5.5, 5],
+        [5, 8.5],
+        [6, 0.5],
+        [7, 0.5],
+        [7.5, 1],
+        [7, 3.5],
+        [7.5, 4],
+        [7, 7.5],
+        [8, 0.5],
+        [8.5, 1],
+        [8.5, 9],
+        [9, 0.5],
+        [9.5, 1],
+        [9.5, 5],
+        [9.5, 8]
+      ],
+      "columns": 10
+    },
+    {
+      "terrain": "Beach",
+      "rows": 10,
+      "player": [1, 1],
+      "pokemons": [
+        {
+          "position": [8, 3],
+          "name": "Scyther"
+        },
+        {
+          "position": [1, 3],
+          "name": "Dratini"
+        },
+        {
+          "position": [7, 0],
+          "name": "Raichu"
+        },
+        {
+          "position": [5, 5],
+          "name": "Mewtwo"
+        },
+        {
+          "position": [6, 9],
+          "name": "Mewtwo"
+        },
+        {
+          "position": [4, 8],
+          "name": "Mewtwo"
+        },
+        {
+          "position": [2, 2],
+          "name": "Tauros"
+        },
+        {
+          "position": [6, 0],
+          "name": "Gyarados"
+        },
+        {
+          "position": [0, 7],
+          "name": "Magnemite"
+        },
+        {
+          "position": [7, 7],
+          "name": "Magnemite"
+        },
+        {
+          "position": [3, 8],
+          "name": "Kabutops"
+        },
+        {
+          "position": [7, 5],
+          "name": "Persian"
+        },
+        {
+          "position": [3, 6],
+          "name": "Starmie"
+        },
+        {
+          "position": [0, 4],
+          "name": "Caterpie"
+        },
+        {
+          "position": [4, 2],
+          "name": "Cubone"
+        },
+        {
+          "position": [9, 6],
+          "name": "Moltres"
+        }
+      ],
+      "walls": [
+        [0.5, 1],
+        [0.5, 2],
+        [0.5, 3],
+        [0.5, 4],
+        [0.5, 5],
+        [0.5, 6],
+        [0.5, 7],
+        [0.5, 8],
+        [0.5, 9],
+        [1, 0.5],
+        [1.5, 3],
+        [1, 3.5],
+        [1, 5.5],
+        [2, 0.5],
+        [2, 6.5],
+        [3, 0.5],
+        [3.5, 5],
+        [3, 7.5],
+        [4, 0.5],
+        [4.5, 6],
+        [5, 0.5],
+        [5, 4.5],
+        [5.5, 5],
+        [5.5, 7],
+        [6, 0.5],
+        [6.5, 2],
+        [6.5, 7],
+        [6, 8.5],
+        [7, 0.5],
+        [7.5, 5],
+        [7, 7.5],
+        [8, 0.5],
+        [8.5, 4],
+        [8, 9.5]
+      ],
+      "columns": 10
+    }
+  ]
+}
